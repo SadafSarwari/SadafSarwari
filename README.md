@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SadafSarwari
-- 👀 I’m interested in writing codes and learning new things about Programming languages. 
-- 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in writing codes and learning new Programming languages. 
+- 🌱 I’m currently working as an intern.
+- 💞️ I’m looking to collaborate on any project related to my career path.
+
 
 <!---
 SadafSarwari/SadafSarwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
